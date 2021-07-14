@@ -6,15 +6,15 @@ google_analytics: "UA-46465113-2"
 
 # UI configs
 title: "Photography by Thabanglukhetho"
-subtitle: "See the world through my eyes!"
+subtitle: "Go nkga tayera!"
 author: "Thabanglukhetho"
 header:
  title: "Photography"
  subtitle: "by Thabanglukhetho"
 footer:
  name: "Hey there, my name is Thabang"
- bio: "I am a student of the multiverse from South Africa. I love capturing moments in space and time."
-
+ bio: "I am a student of the multiverse from South Africa. I love capturing random moments in space and time, follow my journey of storytelling."
+web_design: "TL"
 social_urls:
   facebook: "https://www.facebook.com/thabanglukhetho"
   twitter: "https://twitter.com/thabangline"
