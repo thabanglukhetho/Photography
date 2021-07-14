@@ -1,3 +1,3 @@
 
-# My First website design using jekyll learned some cool stuff really!!!!
-# Photography
+# In my attempt to learn Website development I thought let me try to my own personal photography website.
+# 
