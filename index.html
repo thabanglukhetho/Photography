@@ -57,6 +57,14 @@ layout: default
                 <section>
                     <h2>Follow me on ...</h2>
                     <ul class="icons">
+                          <ul class="icons">
+                        {% if site.social_urls.youtube %}
+                            <li>
+                                <a href="{{ site.social_urls.youtube }}" class="icon fa-youtube">
+                                    <span class="label">YouTube</span>
+                                </a>
+                            </li>
+                        {% endif %}
                         {% if site.social_urls.facebook %}
                             <li>
                                 <a href="{{ site.social_urls.facebook }}" class="icon fa-facebook">
